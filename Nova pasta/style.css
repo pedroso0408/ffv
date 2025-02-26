@@ -1,5 +1,44 @@
-.titulo{
+.titulo {
     h1{
-        background-color: ;
+        background-color: chocolate;
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-radius: 10px;
     }
 }
+.caracteristicas {
+    h2{
+        text-align: center;
+    }p{
+        text-align: center;
+        color: coral;
+        font-weight: bold;
+        
+    }
+    img{
+        margin-left: 34%;
+    }
+}
+
+hr{
+    border: 2px solid;
+    border-color: chocolate;
+}
+.ingredientes{
+    h3{
+        text-align: center;
+        font-size: 22px;
+    }
+    ul{
+        margin-left: 45%;
+        font-weight: bold;
+    }
+}
+.mododepreparo{
+    h2{
+        text-align: center;
+        font-size: 22px;
+    }
+}
+
